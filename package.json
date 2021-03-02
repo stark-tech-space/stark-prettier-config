@@ -1,0 +1,22 @@
+{
+	"name": "@stark-tech-space/stark-prettier-config",
+	"version": "1.0.0",
+	"description": "Prettier Config for Stark Tech",
+	"main": "index.json",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/stark-tech-space/stark-prettier-config.git"
+	},
+	"author": "Stark Tech",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/stark-tech-space/stark-prettier-config/issues"
+	},
+	"homepage": "https://github.com/stark-tech-space/stark-prettier-config#readme",
+	"peerDependencies": {
+		"prettier": "^1.18.2"
+	}
+}
