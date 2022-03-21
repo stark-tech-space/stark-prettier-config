@@ -17,6 +17,6 @@
 	},
 	"homepage": "https://github.com/stark-tech-space/stark-prettier-config#readme",
 	"peerDependencies": {
-		"prettier": "^1.18.2"
+		"prettier": "^2.6.0"
 	}
 }
