@@ -1,6 +1,6 @@
 {
   "name": "@stark-tech-space/stark-prettier-config",
-  "version": "1.0.3",
+  "version": "1.0.1",
   "description": "Prettier Config for Stark Tech",
   "main": "index.json",
   "scripts": {
